@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.verde{
+    background-color: lime;
+    border: 1px solid orange;
+}
+
+.rojo{
+    background-color: red;
+    border: 1px solid black;
+}
+
+.negro{
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
